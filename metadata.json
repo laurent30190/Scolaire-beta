@@ -1,0 +1,6 @@
+{
+  "name": "Laurent Serres - Photographie Scolaire & Simulateur",
+  "description": "Plateforme de liaison, simulateur de marge pour directeurs d'écoles et espace SAV parents pour la photographie scolaire dans le Gard.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
